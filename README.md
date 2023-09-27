@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i'an Kevin Kenfack 👋
 
 # 💫 About Me:
 👋 Fullstack web developer with expertise in Python and Django.<br><br>💼 Key skills:<br><br>- Frontend: HTML, CSS, JavaScript (React.js)<br>- Backend: Python, Django<br>- Databases: PostgreSQL, MySQL, MongoDB<br>- Deployment: Docker, CI/CD<br>🚀 Passionate about building efficient web applications. <br>Open to collaborations and exciting projects.<br><br>
