@@ -2,7 +2,7 @@
 ## Un développeur de logiciels qui aime coder et apprendre de nouvelles choses chaque jour.
 
 
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
+ ![Quote]([https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed))
 
 
 ## Je suis un développeur web Full-Stack  qui apprend vonstament !
