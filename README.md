@@ -2,7 +2,7 @@
 ## Un développeur de logiciels qui aime coder et apprendre de nouvelles choses chaque jour.
 
 
- ![Quote]([https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed))
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
 
 
 ## Je suis un développeur web Full-Stack  qui apprend vonstament !
@@ -14,7 +14,7 @@
 
 
 
-### Connect with me:
+### Connectez-vous avec moi :
 
 [<img align="left" alt="fullstacked.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="fullstacked.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -24,7 +24,7 @@
 
 <br />
 
-### Current Stack: 
+### Pile actuelle : 
 
 Front-End: **javascript** **HTML5** **React**
 <br />
@@ -32,7 +32,7 @@ Back-End: **python** **NodeJS** **Php** **mysql**
 
 ---
 
-### Stats
+### Statistiques
 
 ![enyelSequeria Stats](https://github-readme-stats.vercel.app/api?username=enyelsequeira&show_icons=true&theme=dracula)
 
