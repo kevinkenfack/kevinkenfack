@@ -1,6 +1,6 @@
 # Kevin Kenfack
 
-## Full-Stack JavaScript Developer
+## Frontend Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kevinkenfack&label=Profile%20views&color=0e75b6&style=flat)
 
