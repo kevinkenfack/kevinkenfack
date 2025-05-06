@@ -1,6 +1,6 @@
-# Hello  I'm Kevin Kenfack 👋
+## Hello I'm Kevin Kenfack 👋
 
-## 🌴 I am a Frontend Developer
+### 🌴 I am a Frontend Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kevinkenfack&label=Profile%20views&color=0e75b6&style=flat)
 
