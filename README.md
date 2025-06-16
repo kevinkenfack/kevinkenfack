@@ -1,5 +1,5 @@
 # Hello I'm Kevin Kenfack 👋
-### 🌴 Frontend Developer & UI/UX Enthusiast
+### 🌴 Frontend Developer & AI Enthusiast
 ![Profile Views](https://komarev.com/ghpvc/?username=kevinkenfack&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
