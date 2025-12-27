@@ -6,23 +6,21 @@
 
 #### 🚀 My projects
 
-- <a href="https://github.com/kevinkenfack/cashx" target="_blank">CashX</a>  
-  Personal finance management web application.
-
-- <a href="https://flow.uiroom.pro/" target="_blank">FlowLite</a>  
-  User flow, wireframe and diagram creation tool.  
-  Web version (localStorage) & Node.js version (SQLite) for collaboration.
-
-- <a href="https://cut.uiroom.pro/" target="_blank">Coupy</a>  
-  Free and open-source tool to generate short links.
-
-- <a href="https://snippy-jet.vercel.app/" target="_blank">Snippy</a>  
-  Tool for creating and managing reusable code snippets.
+- <a href="https://github.com/kevinkenfack/cashx" target="_blank">CashX</a> : Personal finance management web application.
+- <a href="https://flow.uiroom.pro/" target="_blank">FlowLite</a> : User flow, wireframe and diagram creation tool (Web & Node.js).
+- <a href="https://cut.uiroom.pro/" target="_blank">Coupy</a> : Free and open-source tool to generate short links.
+- <a href="https://snippy-jet.vercel.app/" target="_blank">Snippy</a> : Tool for creating and managing reusable code snippets.
 
 #### 🌐 Follow me on
 
-- <a href="https://uiroom.pro" target="_blank">UIROOM Agency</a>
+- <a href="https://www.linkedin.com/in/kevinkenfack" target="_blank">LinkedIn</a>
+- <a href="https://twitter.com/kevinkenfack" target="_blank">X (Twitter)</a>
 - <a href="https://t.me/kevinkenfack" target="_blank">Telegram</a>
-- <a href="https://github.com/kevinkenfack" target="_blank">GitHub</a>
+
+---
+
+> <b><a href="https://skales.agency" target="_blank">Skale Agency</a></b>  
+> Premium Websites for SaaS & Startups  
+> Get a website that will fulfill your business goals and drive conversions.
 
 <img src="https://komarev.com/ghpvc/?username=kevinkenfack&label=Profile%20views&color=0e75b6&style=flat" alt="kevinkenfack" />
