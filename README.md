@@ -21,7 +21,6 @@
 
 <b><a href="https://skales.agency" target="_blank">Skale Agency</a></b>
 
-> Premium Websites for SaaS & Startups  
-> Get a website that will fulfill your business goals and drive conversions.
+>Creative web agency building exceptional digital products for SaaS & startups. We design and develop high-impact websites focused on clarity, performance, and conversion.
 
 <img src="https://komarev.com/ghpvc/?username=kevinkenfack&label=Profile%20views&color=0e75b6&style=flat" alt="kevinkenfack" />
