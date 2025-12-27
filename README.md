@@ -19,7 +19,8 @@
 
 ---
 
-> <b><a href="https://skales.agency" target="_blank">Skale Agency</a></b>  
+<b><a href="https://skales.agency" target="_blank">Skale Agency</a></b>
+
 > Premium Websites for SaaS & Startups  
 > Get a website that will fulfill your business goals and drive conversions.
 
