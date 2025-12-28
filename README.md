@@ -19,7 +19,7 @@
 
 ---
 
-<b><a href="https://skales.agency" target="_blank">Skale Agency</a></b>
+<b><a href="https://uiroom.pro" target="_blank">Skale Agency</a></b>
 
 >Creative web agency building exceptional digital products for SaaS & startups. We design and develop high-impact websites focused on clarity, performance, and conversion.
 
