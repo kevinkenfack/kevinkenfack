@@ -6,7 +6,7 @@ Learn more about me here: <b><a href="https://kenfack.me" target="_blank">kenfac
 
 ---
 
-#### 🚀 My projects
+#### 🚀 What I've shipped
 
 - <a href="https://flow.uiroom.pro/" target="_blank">FlowLite</a> — Create user flows, wireframes & diagrams in seconds. Built for speed.
 - <a href="https://github.com/kevinkenfack/shadstart" target="_blank">Shadstart</a> — A starter kit for building and publishing your own shadcn registry components. Fork, customize, and deploy.
