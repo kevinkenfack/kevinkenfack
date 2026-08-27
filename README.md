@@ -2,7 +2,7 @@
 ### I'm Kevin Kenfack
 
 - 🌴 I am a <b>Software Developer</b> focused on <b>Frontend & Product Building</b>
-- 📫 Learn more about me here : <b><a href="https://kenfack-me.vercel.app" target="_blank">kenfack-me.vercel.app</a></b>
+- 📫 Learn more about me here : <b><a href="https://kenfack.me" target="_blank">kenfack.me</a></b>
 
 #### 🚀 My projects
 
