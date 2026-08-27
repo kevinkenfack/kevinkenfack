@@ -11,6 +11,7 @@ Learn more about me here: <b><a href="https://kenfack.me" target="_blank">kenfac
 - <a href="https://flow.uiroom.pro/" target="_blank">FlowLite</a> — Create user flows, wireframes & diagrams in seconds. Built for speed.
 - <a href="https://github.com/kevinkenfack/shadstart" target="_blank">Shadstart</a> — A starter kit for building and publishing your own shadcn registry components. Fork, customize, and deploy.
 - <a href="https://github.com/kevinkenfack/voxa" target="_blank">Voxa</a> — Watch any subtitled or dubbed video in your language, live, right in your browser.
+- <a href="https://mytrove.vercel.app/" target="_blank">Trove</a> — The minimal bookmark manager designed for focused creators. Organize with elegance, synchronize with ease.
 
 ---
 
